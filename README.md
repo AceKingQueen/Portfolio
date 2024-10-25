@@ -49,6 +49,7 @@ I'm Allison, a frontend software engineer with 6 years of experience. I enjoy cr
   - 3 min to find TeamPass
 - WordPress committee: got rid of hosting costs Jan 2023-June 2023
 - Wrote documentation that saved developer time
+- Built 1/4 of Monitoring app that are visited most frequently
 
 # 3C Junior Web Applications Developer
 
@@ -92,5 +93,15 @@ Met bi-wekly sprint goals in a strictly-scoped agile environment using JIRA. Lea
 https://2024.allthingsopen.org/exhibit-layout-participant-footprint
 
 How did re-working the reports on 3c site improve performance?
-How often do people visit 3C site? TSA? Camp Air?
+How often do people visit 3C site?
+Up to 1,000/day
+
+as of late Oct 2024
+TSA: 310,000 visits
+3C visits: 90,000
+Camp Air: 15,000 visits
+SHARE: 25,000 visits
+Children's Trust: 210,000
+total: 650,000
+
 How often do people make reports?
