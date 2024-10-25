@@ -88,3 +88,9 @@ How often do people make reports?
 ---
 
 Met bi-wekly sprint goals in a strictly-scoped agile environment using JIRA. Learned the software development lifecycle. Provided and received weekly code reviews using JavaScript, HTML, and CSS
+
+https://2024.allthingsopen.org/exhibit-layout-participant-footprint
+
+How did re-working the reports on 3c site improve performance?
+How often do people visit 3C site? TSA? Camp Air?
+How often do people make reports?
