@@ -1,2 +1,5 @@
 - [https://mockapi.io/](mock API)
 - [https://crudcrud.com/](create an API with no backend)
+- [appwrite.io](actual backend)
+- [https://v0.dev/](app generator)
+  - created this https://v0.dev/chat/49OyS9LMC43
