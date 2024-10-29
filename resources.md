@@ -1,0 +1,2 @@
+- [https://mockapi.io/](mock API)
+- [https://crudcrud.com/](create an API with no backend)
